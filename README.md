@@ -1,7 +1,7 @@
 # HPP-ML
 This project is on House price Prediction Using Machine Learning
-# California Housing Prices Prediction
-This project aims to predict the median house prices in California based on various features using machine learning algorithms. The dataset used for this project is the "California Housing Prices" dataset obtained from Kaggle. The goal is to build a regression model that can accurately predict the median house prices given a set of input features.
+#Housing Prices Prediction
+This project aims to predict the median house prices in any area based on various features using machine learning algorithms. The dataset used for this project is the "California Housing Prices" dataset obtained from Kaggle. The goal is to build a regression model that can accurately predict the median house prices given a set of input features.
 
 ## Project Overview
 
@@ -34,7 +34,7 @@ To run the project, follow these steps:
 
 2. Clone the repository:git clone <repository-url>
 
-3. Navigate to the project directory:cd california-housing-prices-prediction.
+3. Navigate to the project directory:cd housing-prices-prediction.
     
 4. Run the Jupyter notebook or Python script to execute the project.
 
